@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374020667723",
+    "project_id": "santabrowser-37c44",
+    "storage_bucket": "santabrowser-37c44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374020667723:android:45d47bc44602f809ae10ce",
+        "android_client_info": {
+          "package_name": "com.santa.web3.browser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8A-kzzw3e0abuiAB5DvVFQGoJ6jn5sDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
